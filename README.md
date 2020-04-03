@@ -1,7 +1,8 @@
 <!DOCTYPE HTML>
+
 <html>
-  <link rel ="stylesheet" href ="index.css" type ="text />
   <header>
+  <link rel ="stylesheet" href ="index.css" type ="text />
     <button>
       GITHUB
     </button>
