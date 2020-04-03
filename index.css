@@ -1,0 +1,50 @@
+#git {
+  top:7%;
+  left:25%;
+  width:100px;
+  height:25px;
+  position:absolute;
+  color: dark-grey;
+  border:none;
+  border-radius:5px;
+  background: linear-gradient(65deg,teal,#afeecf,#ffa483);
+  background-opacity:5%;
+  cursor:pointer;
+  box-shadow:5px 10px #ff5a1d;
+
+}
+
+#camp {
+  top:7%;
+  left:44%;
+  position:absolute;
+  width:120px;
+  height:25px;
+  color: dark-grey;
+  border:none;
+  border-radius:5px;
+  background: linear-gradient(65deg,teal,#afeecf,#ffa483);
+  background-opacity:5%;
+  cursor:pointer;
+  box-shadow:5px 10px #ff5a1d;
+  
+}
+#war {
+  top:7%;
+  right:25%;
+  position:absolute;
+  width:100px;
+  height:25px;
+  color:dark-grey;
+  border:none;
+  border-radius:5px;
+  background: linear-gradient(65deg,teal,#afeecf,#ffa483);
+  background-opacity:5%;
+  cursor:pointer;
+  box-shadow:5px 10px #ff5a1d;
+  
+}
+
+body {
+  background:#002932;
+}
