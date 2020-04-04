@@ -37,5 +37,22 @@ box-shadow : 5px 10px #ff5a1d;
 }
 body {
 background : #002932;
+  
 }
+#box-container {
+  height:500px;
+  display:flex;
+  
+}
+#box-1 {
+  color:#ff926a;
+   width:50%;
+  height:50%;
+}
+#box-2 {
+  color:#ff926a;
+  width:50%;
+  height:50%;
+}
+  
 </style>
