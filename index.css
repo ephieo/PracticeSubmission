@@ -1,5 +1,5 @@
 <style>
-#github {
+#git {
   top:7%;
   left:25%;
   width:100px;
@@ -44,14 +44,6 @@
   cursor:pointer;
   box-shadow:5px 10px #ff5a1d;
   
-}
-
-#web {
-margin-left:20px;
-margin-right:20px;
-width:200px;
-height:200px;
-
 }
 
 body {
