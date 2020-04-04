@@ -1,4 +1,16 @@
 <style>
+#github {
+top : 7%;
+left : 25%;
+width : 100px;
+height : 25px;
+position : absolute;
+border : none;
+border-radius : 5px;
+background : linear-gradient(65deg, teal, #afeecf, #ffa483);
+cursor : pointer;
+box-shadow : 5px 10px #ff5a1d;
+}
 #camp {
 top : 7%;
 left : 44%;
