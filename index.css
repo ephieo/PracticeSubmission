@@ -45,9 +45,11 @@
   box-shadow:5px 10px #ff5a1d;
   
 }
-@media (max-height:800px)
+
 #web-idea {
 position:absolute;
+ width:100px;
+  height:100px;
 
 }
 
