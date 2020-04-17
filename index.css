@@ -31,5 +31,6 @@ position :absolute;
   text-align:center;
 }
 
-
-
+@media only screen and (max-width: 300px){
+  .text { font-size:11px;}
+}
