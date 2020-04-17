@@ -3,7 +3,7 @@ body {
 
 }
 
-#slideshow-container {
+.slideshow-container {
   width:800px;
   height:800px;
 }
