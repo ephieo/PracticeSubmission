@@ -7,9 +7,10 @@ body {
 }
 img {
   vertical-align:middle;
+  width:400px;
 }
 .slideshow-container {
- max-width:500px;
+ max-width:1000px;
   position:relative;
   margin:0 auto;
 }
