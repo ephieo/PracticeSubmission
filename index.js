@@ -1,6 +1,6 @@
 let slideIndex = 0;
 const slideShow =() => {
-const slides = document.getElementByClassName("myslides");
+const slides = document.getElementByClassName("myslide");
   //console.log(slides);
 for (let i =0; i < slides.length; i++){
 slides[i].style.display="none";
