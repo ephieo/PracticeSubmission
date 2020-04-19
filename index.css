@@ -1,9 +1,13 @@
 body{
   background-color:#1e1e1e;
 }
+.main{
+  max-width:500px;
+}
 
-#image {
+.image {
   width:400px;
+  
 }
 .container{
   width:80%;
